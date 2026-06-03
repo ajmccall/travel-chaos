@@ -1,0 +1,21 @@
+# Dependencies and build output
+node_modules/
+dist/
+
+# Local files
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# AI Agent profiles (local auth, never commit)
+.envrc
+.envrc.local
+.agent-profile/
+.ai-agents/
+.claude/
+.copilot/
+.codex/
+.gemini/
+
+.claude/settings.local.json

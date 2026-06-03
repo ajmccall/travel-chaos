@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@keyframes popIn {
+  from { opacity: 0; transform: scale(0) rotate(0deg); }
+  to   { opacity: 1; }
+}
+
+.sticker-pop {
+  animation: popIn 0.35s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
+}

@@ -1,0 +1,160 @@
+{
+    "items": [
+        {
+            "displayName": "guitar",
+            "fileLocation": "images/item-guitar.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "sunglasses",
+            "fileLocation": "images/item-sunglasses.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "socks",
+            "fileLocation": "images/item-socks.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "shoes",
+            "fileLocation": "images/item-shoes.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "toothpaste",
+            "fileLocation": "images/item-toothpaste.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "shampoo",
+            "fileLocation": "images/item-shampoo.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "water bottle",
+            "fileLocation": "images/item-water-bottle.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "walkman",
+            "fileLocation": "images/item-walkman.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "phone",
+            "fileLocation": "images/item-phone.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "trophy",
+            "fileLocation": "images/item-trophy.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "pogo",
+            "fileLocation": "images/item-pogo.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "shower cap",
+            "fileLocation": "images/item-showercap.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "tire",
+            "fileLocation": "images/item-tire.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "clock",
+            "fileLocation": "images/item-clock.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "passport",
+            "fileLocation": "images/item-passport.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": true
+        },
+        {
+            "displayName": "cap",
+            "fileLocation": "images/item-cap.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "undies",
+            "fileLocation": "images/item-undies.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "banana",
+            "fileLocation": "images/item-banana.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "pencil case",
+            "fileLocation": "images/item-pencilcase.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "pizza",
+            "fileLocation": "images/item-pizza.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "frog",
+            "fileLocation": "images/item-frog.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "yo-yo",
+            "fileLocation": "images/item-yo-yo.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "books",
+            "fileLocation": "images/item-books.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "panties",
+            "fileLocation": "images/item-panties.png",
+            "allowedInLuggage": true,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "scissors",
+            "fileLocation": "images/item-scissors.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": false
+        },
+        {
+            "displayName": "llama",
+            "fileLocation": "images/item-llama.png",
+            "allowedInLuggage": false,
+            "mandatoryInLuggage": false
+        }
+    ]
+}
